@@ -1,0 +1,13 @@
+{
+  "product": "PortAct-Mobile",
+  "version": "1.6.9",
+  "platforms": {
+    "android": {
+      "file": "PortAct-Mobile-v1.6.9.apk",
+      "url": "https://github.com/portact-admin/downloads/releases/download/portact-mobile-v1.6.9/PortAct-Mobile-v1.6.9.apk",
+      "size": 107249810,
+      "sha256": "91f8192fc10b7ae08679333ef95f2bcdc8e533aefe1cd00b8155bad96824a08d"
+    }
+  },
+  "updated_at": "2026-07-11T08:56:27Z"
+}
