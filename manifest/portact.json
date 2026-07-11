@@ -1,0 +1,19 @@
+{
+  "product": "PortAct",
+  "version": "4.1.17",
+  "platforms": {
+    "macos": {
+      "file": "PortAct-v4.1.17.pkg",
+      "url": "https://github.com/portact-admin/downloads/releases/download/portact-v4.1.17/PortAct-v4.1.17.pkg",
+      "size": 764980,
+      "sha256": "7ed56954d42e13f6559880d34d274d337b6a64152f11bcc5d56cc6d919bea1c6"
+    },
+    "windows": {
+      "file": "PortAct-Setup-v4.1.17.exe",
+      "url": "https://github.com/portact-admin/downloads/releases/download/portact-v4.1.17/PortAct-Setup-v4.1.17.exe",
+      "size": 2522403,
+      "sha256": "e5ff127dc0c16a8466e49d879e324db54d1bd2e2975a951901126d349fe18889"
+    }
+  },
+  "updated_at": "2026-07-11T08:15:50Z"
+}
