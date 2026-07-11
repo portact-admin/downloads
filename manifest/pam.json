@@ -1,0 +1,13 @@
+{
+  "product": "PAM",
+  "version": "1.1.0",
+  "platforms": {
+    "android": {
+      "file": "PAM-v1.1.0.apk",
+      "url": "https://github.com/portact-admin/downloads/releases/download/pam-v1.1.0/PAM-v1.1.0.apk",
+      "size": 175019670,
+      "sha256": "e443e1d80549963bbad9471b94bd092486da9f24865b645e956b5ee5589e593e"
+    }
+  },
+  "updated_at": "2026-07-11T06:17:05Z"
+}
