@@ -1,0 +1,13 @@
+{
+  "product": "PortAct Global",
+  "version": "1.0.0",
+  "platforms": {
+    "macos": {
+      "file": "PortAct-Global-v1.0.0.pkg",
+      "url": "https://github.com/portact-admin/downloads/releases/download/portact-global-v1.0.0/PortAct-Global-v1.0.0.pkg",
+      "size": 760351,
+      "sha256": "0abfc7b53df76f0daa5b3a16d69c1f673230df6a308a7f470f0b7c5b9ae5f550"
+    }
+  },
+  "updated_at": "2026-07-15T15:11:18Z"
+}
