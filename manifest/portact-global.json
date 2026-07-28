@@ -1,12 +1,12 @@
 {
   "product": "PortAct Global",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "platforms": {
     "macos": {
-      "file": "PortAct-Global-v3.0.0.pkg",
-      "url": "https://github.com/portact-admin/downloads/releases/download/portact-global-v3.0.0/PortAct-Global-v3.0.0.pkg",
-      "size": 760355,
-      "sha256": "d7c811d5647890f72bf5f3f254532ead45b705f8ce858897b1d1ff04345f94f4"
+      "file": "PortAct-Global-v3.1.0.pkg",
+      "url": "https://github.com/portact-admin/downloads/releases/download/portact-global-v3.1.0/PortAct-Global-v3.1.0.pkg",
+      "size": 760352,
+      "sha256": "97f505b14d8c9a05429142f0d1b67a6459e053bef9b972bcc91ba58511655780"
     },
     "windows": {
       "file": "PortAct-Global-Setup-v3.0.0.exe",
@@ -15,5 +15,5 @@
       "sha256": "5c2ef06bb1ed4708e75046f2cde1e035ba3a10ea72dcad13cb808eed21d3d4a7"
     }
   },
-  "updated_at": "2026-07-28T05:25:23Z"
+  "updated_at": "2026-07-28T15:34:00Z"
 }
