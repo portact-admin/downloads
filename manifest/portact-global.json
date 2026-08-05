@@ -9,11 +9,11 @@
       "sha256": "8abbe86e2727cb3ba21a43441028bd806663c1034182244e0971f1561940cf94"
     },
     "windows": {
-      "file": "PortAct-Global-Setup-v4.0.0.exe",
-      "url": "https://github.com/portact-admin/downloads/releases/download/portact-global-v4.0.0/PortAct-Global-Setup-v4.0.0.exe",
-      "size": 2521752,
-      "sha256": "23aabcdf975953cebd6d627658574e19d9df245198b0ac61f072590dedcd2a90"
+      "file": "PortAct-Global-Setup-v4.1.0.exe",
+      "url": "https://github.com/portact-admin/downloads/releases/download/portact-global-v4.1.0/PortAct-Global-Setup-v4.1.0.exe",
+      "size": 2521758,
+      "sha256": "18b42d1672329476306f8f33d0803b9052e1b352573086f13e4fa053d116e5aa"
     }
   },
-  "updated_at": "2026-08-05T09:36:22Z"
+  "updated_at": "2026-08-05T09:37:18Z"
 }
