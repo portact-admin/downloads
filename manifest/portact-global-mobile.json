@@ -1,0 +1,13 @@
+{
+  "product": "PortAct-Global-Mobile",
+  "version": "1.0.0",
+  "platforms": {
+    "android": {
+      "file": "PortAct-Global-Mobile-v1.0.0.apk",
+      "url": "https://github.com/portact-admin/downloads/releases/download/portact-global-mobile-v1.0.0/PortAct-Global-Mobile-v1.0.0.apk",
+      "size": 62937323,
+      "sha256": "8103b23acdca19df4e18acb7c6783a9de317abd53220fe60de4c2cbfe59da679"
+    }
+  },
+  "updated_at": "2026-08-07T04:49:11Z"
+}
